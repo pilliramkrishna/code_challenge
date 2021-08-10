@@ -1,0 +1,1 @@
+when we run the shell script it asks dyanamically data key for metadata and it will output data key and valuse
